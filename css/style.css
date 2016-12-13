@@ -1508,7 +1508,7 @@ input[type="color"]:focus {
 	background-color:#1c1c1c;
 	color:#fff;
 }
-#comment_form .contact_btn:hover {background-color:#ccc;}
+#comment_form .contact_btn:hover {background-color:#000;}
 
 .comment_note {padding-top:11px; font-size:12px;}
 
