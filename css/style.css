@@ -1260,6 +1260,9 @@ input[type="color"]:focus {
 	-webkit-transition: all 0.3s ease-in-out;
 }
 .contact_btn.active, .contact_btn:hover {background: none; color:#fff; border-color:#ccc;}
+#comment_form .contact_btn:hover {
+    color: black;
+}
 
 .notification_error {color:#30a67c;}
 
